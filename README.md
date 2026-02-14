@@ -80,6 +80,14 @@
 
 ------
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrachiPujari10/PrachiPujari10/output/github-contribution-grid-snake.svg" />
+</p>
+
+-------
+
 <!--
 **PrachiPujari10/PrachiPujari10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
