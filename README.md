@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Spring+Boot+Learner;Android+App+Builder;Full+Stack+Enthusiast;Open+Source+Explorer&center=true&width=500&height=45">
 </p>
 
+ --------------------------
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on Full Stack & Android Projects  
