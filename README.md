@@ -50,13 +50,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrachiPujari10&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiPujari10&layout=compact&theme=tokyonight&cache_seconds=86400" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiPujari10&theme=tokyonight&cache_seconds=86400" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
 </p>
+
 ---------
 
 
