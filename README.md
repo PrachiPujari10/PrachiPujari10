@@ -1,7 +1,4 @@
 ## 👋 Hi, I'M Prachi 
-
-<h1 align="center">Hi 👋, I'm Prachi</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Spring+Boot+Learner;Android+App+Builder;Full+Stack+Enthusiast;Open+Source+Explorer&center=true&width=500&height=45">
 </p>
