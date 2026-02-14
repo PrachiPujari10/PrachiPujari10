@@ -91,11 +91,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://(https://www.linkedin.com/in/prachi-pujari-b060163a8/)">
+  <a href="https://https://www.linkedin.com/in/prachi-pujari-b060163a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="(https://x.com/PrachiPuja87121)">
+  <a href="https://x.com/PrachiPuja87121">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
   
@@ -103,7 +103,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="(https://leetcode.com/u/PrachiPujari07/)">
+  <a href="https://leetcode.com/u/PrachiPujari07/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
