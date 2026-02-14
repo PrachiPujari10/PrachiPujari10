@@ -65,6 +65,13 @@
 
 ---------
 
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrachiPujari10&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
 
 <!--
 **PrachiPujari10/PrachiPujari10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
