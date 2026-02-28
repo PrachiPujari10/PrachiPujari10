@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on Open Source & Beginner Friendly Projects  
 - 💬 Ask me about Java, Spring Boot, Android & Web Development  
 - 📫 Reach me at: LinkedIn | Twitter  
-- ⚡ Fun fact: Code + Coffee = Perfect Day ☕💻
+- ⚡ Fun fact: 🍔 If (hungry) { eat(); } else { code(); }
 
 - ---------------
 
