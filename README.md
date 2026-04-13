@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on Open Source & Beginner Friendly Projects  
 - 💬 Ask me about Java, Spring Boot, Android & Web Development  
 - 📫 Reach me at: LinkedIn | Twitter  
-- 🐛 I don’t find bugs, they find me 
+- fun fact - 🐛 I don’t find bugs, they find me 
 
 - ---------------
 
